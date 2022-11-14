@@ -1,37 +1,71 @@
-## Selamat Datang
-
-You can use the [editor on GitHub](https://github.com/masipnu/masipnu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Materi Workshop IoT
+---------------------------------
+```sh
+SMK BP Subulul Huda | 15 November 2022 | Ipnu Masyaid
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## IoT
+```sh
+1. Apa itu IoT?
+2. Contoh Penerapan IoT?
+3. Kenapa kita harus memahami IoT?
+4. Pentingkah IoT untuk kita?
+```
 
-### Jekyll Themes
+## Platform IoT
+```sh
+1. Apa itu Arduino Uno
+2. Apa itu Wemos D1 Mini
+3. Datasheet Wemos D1 Mini
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masipnu/masipnu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Proyek IoT
+```sh
+1. Kit Proyek
+2. Alur Kerja Aplikasi
+3. Skema Rangkaian
+```
 
-### Support or Contact
+## Praktik Software
+```sh
+1. Login RemoteXY
+2. Membuat UI di RemoteXY
+3. Download Sourcecode
+4. Flash Device
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Praktik Hardware
+```sh
+1. Memasang Perkabelan
+2. Memasang box
+3. Memasang Wemos
+4. Testing Alat
+```
+---------------------------------
+
+# Susunan Acara 
+
+### Sesi - 1
+| No | Acara |
+| ------ | ------ |
+| 1 | Pembukaan |
+| 2 | Curriculum Vitae |
+| 3 | Pengenalan IoT |
+
+### Sesi - 2
+| No | Acara |
+| ------ | ------ |
+| 1 | Platform IoT |
+| 2 | Kit Proyek |
+| 3 | Design UI Aplikasi |
+| 4 | Ice Breaking |
+
+###  Sesi - 3
+| No | Acara |
+| ------ | ------ |
+| 1 | Perakitan Hardware |
+| 2 | Testing |
+| 3 | Quiz |
+| 4 | Penutup |
+
+Made with ```❤ ``` by : Masipnu Official @ 14/11/2022
