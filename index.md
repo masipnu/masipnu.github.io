@@ -1,4 +1,4 @@
-![](https://github.com/masipnu/masipnu.github.io/blob/ec63bc3d31e1f899d9331b38be876feb6ee31c60/student.png)
+![](https://github.com/masipnu/masipnu.github.io/blob/ec63bc3d31e1f899d9331b38be876feb6ee31c60/student.png?raw=true)
 
 # ☕ moka
  Monitoring kehadiran siswa dan guru SMK BP Subulul Huda Kembangsawit, Rejosari, Kebonsari, Madiun
