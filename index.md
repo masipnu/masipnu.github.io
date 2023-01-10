@@ -1,4 +1,4 @@
-![Students](https://drive.google.com/file/d/1QyCpG1d1q20r2TjOqkZDpBteTtwr3ZJE/view?usp=share_link)
+![Students](https://github.com/masipnu/masipnu.github.io/blob/main/student.png)
 
 # ☕ moka
  Monitoring kehadiran siswa dan guru SMK BP Subulul Huda Kembangsawit, Rejosari, Kebonsari, Madiun
