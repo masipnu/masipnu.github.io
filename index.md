@@ -1,4 +1,4 @@
-[student.png](https://postimg.cc/kDvqqDVb)
+[student.png](https://i.postimg.cc/PfBxbwT2/student.png)
 
 # ☕ moka
  Monitoring kehadiran siswa dan guru SMK BP Subulul Huda Kembangsawit, Rejosari, Kebonsari, Madiun
