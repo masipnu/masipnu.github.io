@@ -165,6 +165,6 @@ Salam hangat 🙂
 
 ---
 
-Made with 💓 by [masipnu](https://s.id/masipnu)
+Made with <span style="color:red">❤️</span> by [masipnu](https://s.id/masipnu)
 
 ©️ 2023
